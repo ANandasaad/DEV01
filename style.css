@@ -1,0 +1,23 @@
+li{
+    list-style: none;
+}
+.navbar>nav,ul{
+    display: flex;
+    justify-content: space-between;
+}
+ img[src="images/wallper.jpg"]{
+     height: 800px;
+     width: 1400px;
+ }
+ .skills{
+     display: flex;
+ }
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    font-size: 25px;
+}
